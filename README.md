@@ -1,1 +1,5 @@
-# Sentiment-Analysis-
+##  Sentiment-Analysis
+ 
+## Author 
+
+Bhavya Pandya
